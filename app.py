@@ -185,3 +185,4 @@ with col_terminal:
                 
                 st.code(f"[AGENT EVENT] Evaluating structural parameters...\n"
                         f"[TOOL CALL] Triggered municipal asset ledger.\n"
+                       )
